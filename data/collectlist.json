@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 725,
   "fetched": 723,
-  "fetched_at": "2026-07-28T00:03:01+0000",
+  "fetched_at": "2026-07-29T00:03:02+0000",
   "movies": [
     {
       "id": "35801594",
@@ -1952,7 +1952,7 @@
       "aka": [
         "幸せカナコの殺し屋生活",
         "Happy Kanako's Killer Life",
-        "伽菜子的幸福杀手生活"
+        "伽菜子的幸福杀手生活 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/36883141/",
       "cover": "data/posters/36883141.jpg",
@@ -2865,7 +2865,7 @@
       "title": "钛",
       "aka": [
         "Titane",
-        "变钛(港)"
+        "变钛(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/34820925/",
       "cover": "data/posters/34820925.jpg",
@@ -3011,7 +3011,7 @@
         "安川正吾 Shogo Yasukawa",
         "加藤敏幸 Toshiyuki Kato"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327887093.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2390559277.jpg"
     },
     {
       "id": "5992987",
@@ -6584,7 +6584,7 @@
         "蓝色大门",
         "易智言 Chih-yen Yee"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2650516283.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2886080977.jpg"
     },
     {
       "id": "1949100",
@@ -7135,7 +7135,7 @@
         "英语"
       ],
       "runtime": "22分钟",
-      "intro_raw": "2016-09-19(美国) / 克里斯汀·贝尔 / 特德·丹森 / 威廉·杰克森·哈珀 / 亚当·休伯 / 曼尼·贾希尼托 / 班巴德贾恩·班巴 / 杰姬·托恩 / 达茜·卡尔登 / 乔·曼德 / 莱斯利·格罗斯曼 / 美国 / 德鲁·戈达德 / 善地 / 22分钟 / 善地 / 喜剧 / Michael Schur / 英语",
+      "intro_raw": "2016-09-19(美国) / 克里斯汀·贝尔 / 特德·丹森 / 威廉·杰克森·哈珀 / 亚当·休伯 / 曼尼·贾希尼托 / 班巴德贾恩·班巴 / 杰姬·托恩 / 达茜·卡尔登 / 林奈特·加莎 / 米本学仁 / 美国 / 德鲁·戈达德 / 善地 / 22分钟 / 善地 / 喜剧 / Michael Schur / 英语",
       "people": [
         "克里斯汀·贝尔",
         "特德·丹森",
@@ -7145,8 +7145,8 @@
         "班巴德贾恩·班巴",
         "杰姬·托恩",
         "达茜·卡尔登",
-        "乔·曼德",
-        "莱斯利·格罗斯曼",
+        "林奈特·加莎",
+        "米本学仁",
         "德鲁·戈达德",
         "善地",
         "善地",
@@ -8047,7 +8047,7 @@
       "aka": [
         "The Tragedy of Macbeth",
         "森林复活记(台)",
-        "浴血金銮殿(港)"
+        "浴血金銮殿(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1437096/",
       "cover": "data/posters/1437096.jpg",
@@ -10818,7 +10818,7 @@
       "aka": [
         "ジョジョの奇妙な冒険 黄金の風",
         "JOJO的奇妙冒险 第五季",
-        "JoJo's Bizarre Adventure: Golden Wind"
+        "JoJo's Bizarre Adventure: Golden Wind [可播放]"
       ],
       "url": "https://movie.douban.com/subject/27666505/",
       "cover": "data/posters/27666505.jpg",
@@ -14089,7 +14089,7 @@
         "黄百鸣 Bak-Ming Wong",
         "谷德昭 Vincent Kok"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2220261826.jpg"
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919538290.jpg"
     },
     {
       "id": "1300659",
@@ -18271,7 +18271,7 @@
       "title": "纵横四海",
       "aka": [
         "縱橫四海",
-        "Once a Thief"
+        "Once a Thief [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1295409/",
       "cover": "data/posters/1295409.jpg",
@@ -19646,7 +19646,8 @@
       "cid": "1313920449",
       "title": "拽妹黛薇儿 第三季",
       "aka": [
-        "Daria Season 3"
+        "Daria Season 3",
+        "[可播放]"
       ],
       "url": "https://movie.douban.com/subject/26583811/",
       "cover": "data/posters/26583811.jpg",
@@ -20412,7 +20413,7 @@
       "aka": [
         "Day &amp; Night",
         "阳光昼与阴郁夜",
-        "白天与夜晚"
+        "白天与夜晚 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/4718352/",
       "cover": "data/posters/4718352.jpg",
@@ -23154,7 +23155,8 @@
       "cid": "1313920361",
       "title": "拽妹黛薇儿 第二季",
       "aka": [
-        "Daria Season 2"
+        "Daria Season 2",
+        "[可播放]"
       ],
       "url": "https://movie.douban.com/subject/26583810/",
       "cover": "data/posters/26583810.jpg",
@@ -23190,7 +23192,7 @@
       "title": "拽妹黛薇儿 第一季",
       "aka": [
         "Daria Season 1",
-        "跩妹黛薇兒"
+        "跩妹黛薇兒 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1839600/",
       "cover": "data/posters/1839600.jpg",
@@ -25251,7 +25253,7 @@
       "aka": [
         "3 Idiots",
         "三个傻瓜(台)",
-        "作死不离3兄弟(港)"
+        "作死不离3兄弟(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3793023/",
       "cover": "data/posters/3793023.jpg",
