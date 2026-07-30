@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 725,
   "fetched": 723,
-  "fetched_at": "2026-07-29T00:03:02+0000",
+  "fetched_at": "2026-07-30T00:03:01+0000",
   "movies": [
     {
       "id": "35801594",
@@ -9860,7 +9860,7 @@
     {
       "id": "26881168",
       "cid": "2223548894",
-      "title": "埃莱扎·施莱辛格：确认击杀",
+      "title": "伊丽莎·施莱辛格：确认击杀",
       "aka": [
         "Iliza Shlesinger: Confirmed Kills"
       ],
@@ -9880,11 +9880,11 @@
         "英语"
       ],
       "runtime": "77分钟",
-      "intro_raw": "2016-09-23(美国) / 埃莱扎·施莱辛格 / 美国 / 77分钟 / 埃莱扎·施莱辛格：确认击杀 / 喜剧 / Iliza Shlesinger / 英语",
+      "intro_raw": "2016-09-23(美国) / 伊丽莎·施莱辛格 / 美国 / 77分钟 / 伊丽莎·施莱辛格：确认击杀 / 喜剧 / 埃莱扎·施莱辛格 Iliza Shlesinger / 英语",
       "people": [
-        "埃莱扎·施莱辛格",
-        "埃莱扎·施莱辛格：确认击杀",
-        "Iliza Shlesinger"
+        "伊丽莎·施莱辛格",
+        "伊丽莎·施莱辛格：确认击杀",
+        "埃莱扎·施莱辛格 Iliza Shlesinger"
       ],
       "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2384068281.jpg"
     },
