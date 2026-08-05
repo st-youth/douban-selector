@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 726,
   "fetched": 724,
-  "fetched_at": "2026-08-04T00:03:04+0000",
+  "fetched_at": "2026-08-05T00:03:04+0000",
   "movies": [
     {
       "id": "36882191",
@@ -1886,18 +1886,18 @@
         "日语"
       ],
       "runtime": "118分钟",
-      "intro_raw": "2021-12-29(日本) / 松本润 / 香川照之 / 杉咲花 / 西岛秀俊 / 滨崎贵司 / 桂正和 / 莳田彩珠 / 藤本隆宏 / 渡边真起子 / 石桥莲司 / 日本 / 木村尚 / 118分钟 / 99.9：刑事专业律师 -完全新作SP 全新的相遇篇～ / 犯罪 / 三浦骏斗 Hayato Miura / 日语",
+      "intro_raw": "2021-12-29(日本) / 松本润 / 香川照之 / 杉咲花 / 西岛秀俊 / 平岩纸 / 片桐仁 / 儿岛雄一 / 马场园梓 / 马场彻 / 映美藏良 / 日本 / 木村尚 / 118分钟 / 99.9：刑事专业律师 -完全新作SP 全新的相遇篇～ / 犯罪 / 三浦骏斗 Hayato Miura / 日语",
       "people": [
         "松本润",
         "香川照之",
         "杉咲花",
         "西岛秀俊",
-        "滨崎贵司",
-        "桂正和",
-        "莳田彩珠",
-        "藤本隆宏",
-        "渡边真起子",
-        "石桥莲司",
+        "平岩纸",
+        "片桐仁",
+        "儿岛雄一",
+        "马场园梓",
+        "马场彻",
+        "映美藏良",
         "木村尚",
         "99.9：刑事专业律师 -完全新作SP 全新的相遇篇～",
         "三浦骏斗 Hayato Miura"
@@ -14209,7 +14209,7 @@
         "粤语"
       ],
       "runtime": "102 分钟",
-      "intro_raw": "1992-07-02(中国香港) / 周星驰 / 梅艳芳 / 吴家丽 / 吴孟达 / 秦沛 / 梁家仁 / 苑琼丹 / 黄一飞 / 朱咪咪 / 侯焕玲 / 中国香港 / 杜琪峰 / 102 分钟 / 审死官 / 喜剧 / 古装 / 邵丽琼 Sandy Shaw / 粤语",
+      "intro_raw": "1992-07-02(中国香港) / 周星驰 / 梅艳芳 / 吴家丽 / 吴孟达 / 秦沛 / 梁家仁 / 苑琼丹 / 黄一飞 / 朱咪咪 / 王天林 / 中国香港 / 杜琪峰 / 102 分钟 / 审死官 / 喜剧 / 古装 / 邵丽琼 Sandy Shaw / 粤语",
       "people": [
         "周星驰",
         "梅艳芳",
@@ -14220,7 +14220,7 @@
         "苑琼丹",
         "黄一飞",
         "朱咪咪",
-        "侯焕玲",
+        "王天林",
         "杜琪峰",
         "审死官",
         "邵丽琼 Sandy Shaw"
@@ -15152,7 +15152,7 @@
         "英语"
       ],
       "runtime": "113分钟",
-      "intro_raw": "1992-04-16 / 李连杰 / 关之琳 / 甄子丹 / 莫少聪 / 姜大卫 / 熊欣欣 / 张铁林 / 任世官 / 黄剑伟 / 朱子聪 / 中国香港 / 徐克 / 113分钟 / 126分钟(台湾版) / 黄飞鸿之二：男儿当自强 / 剧情 / 动作 / 爱情 / 武侠 / 古装 / 徐克 / 张炭 / 陈天璇 / 粤语 / 汉语普通话 / 英语",
+      "intro_raw": "1992-04-16 / 李连杰 / 关之琳 / 甄子丹 / 莫少聪 / 姜大卫 / 熊欣欣 / 张铁林 / 任世官 / 何家驹 / 林迪安 / 中国香港 / 徐克 / 113分钟 / 126分钟(台湾版) / 黄飞鸿之二：男儿当自强 / 剧情 / 动作 / 爱情 / 武侠 / 古装 / 徐克 / 张炭 / 陈天璇 / 粤语 / 汉语普通话 / 英语",
       "people": [
         "李连杰",
         "关之琳",
@@ -15162,8 +15162,8 @@
         "熊欣欣",
         "张铁林",
         "任世官",
-        "黄剑伟",
-        "朱子聪",
+        "何家驹",
+        "林迪安",
         "徐克",
         "126分钟(台湾版)",
         "黄飞鸿之二：男儿当自强",
@@ -15636,7 +15636,7 @@
         "粤语"
       ],
       "runtime": "98分钟",
-      "intro_raw": "1978-03-01 / 成龙 / 袁小田 / 黄正利 / 石天 / 陈龙 / 赵志凌 / 徐虾 / 黃志明 / 蔡晖 / 林源 / 中国香港 / 袁和平 / 98分钟 / 90分钟(日本) / 动作 / 喜剧 / 萧龙 / 吴思远 See-Yuen Ng / 蔡继光 / 粤语",
+      "intro_raw": "1978-03-01 / 成龙 / 袁小田 / 黄正利 / 石天 / 陈龙 / 赵志凌 / 徐虾 / 冯克安 / 王将 / 冯敬文 / 中国香港 / 袁和平 / 98分钟 / 90分钟(日本) / 动作 / 喜剧 / 萧龙 / 吴思远 See-Yuen Ng / 蔡继光 / 粤语",
       "people": [
         "成龙",
         "袁小田",
@@ -15645,9 +15645,9 @@
         "陈龙",
         "赵志凌",
         "徐虾",
-        "黃志明",
-        "蔡晖",
-        "林源",
+        "冯克安",
+        "王将",
+        "冯敬文",
         "袁和平",
         "90分钟(日本)",
         "萧龙",
@@ -15945,18 +15945,18 @@
         "汉语普通话"
       ],
       "runtime": "90分钟",
-      "intro_raw": "2014-07-18(中国大陆) / 那英 / 齐秦 / 汪峰 / 杨坤 / 华少 / 耿斯汉 / 黄渤 / 陈乐基 / 陈永馨 / 李嘉格 / 中国大陆 / www.zjstv.com/voice/ / 宋静 / 90分钟 / 音乐 / 真人秀 / 汉语普通话",
+      "intro_raw": "2014-07-18(中国大陆) / 那英 / 齐秦 / 汪峰 / 杨坤 / 华少 / 关喆 / 齐豫 / 叶中月 / 蒋雯丽 / 张玮 / 中国大陆 / www.zjstv.com/voice/ / 宋静 / 90分钟 / 音乐 / 真人秀 / 汉语普通话",
       "people": [
         "那英",
         "齐秦",
         "汪峰",
         "杨坤",
         "华少",
-        "耿斯汉",
-        "黄渤",
-        "陈乐基",
-        "陈永馨",
-        "李嘉格",
+        "关喆",
+        "齐豫",
+        "叶中月",
+        "蒋雯丽",
+        "张玮",
         "www.zjstv.com",
         "voice",
         "宋静"
@@ -18974,7 +18974,7 @@
         "英语"
       ],
       "runtime": "22分钟",
-      "intro_raw": "2013-02-07(美国) / 乔尔·麦克哈尔 / 吉莉安·雅各布斯 / 丹尼·朴迪 / 伊薇特·尼科尔·布朗 / 爱丽森·布里 / 唐纳德·格洛弗 / 吉姆·拉什 / 郑肯 / 切维·切斯 / 翠西亚·希弗 / 美国 / www.nbc.com/community / 特斯塔姆·莎佩罗 / 翠西亚·布洛克 / 废柴联盟 / 22分钟 / 废柴联盟 / 喜剧 / David Guarascio / Moses Port / 梅根.甘茨 Megan Ganz / Andy Bobrow / Annie Mebane / Emily Cutler / Stephen Basilone / 英语",
+      "intro_raw": "2013-02-07(美国) / 乔尔·麦克哈尔 / 吉莉安·雅各布斯 / 丹尼·朴迪 / 伊薇特·尼科尔·布朗 / 爱丽森·布里 / 唐纳德·格洛弗 / 吉姆·拉什 / 郑肯 / 切维·切斯 / 马尔科姆·麦克道威尔 / 美国 / www.nbc.com/community / 特斯塔姆·莎佩罗 / 翠西亚·布洛克 / 废柴联盟 / 22分钟 / 废柴联盟 / 喜剧 / David Guarascio / Moses Port / 梅根.甘茨 Megan Ganz / Andy Bobrow / Annie Mebane / Emily Cutler / Stephen Basilone / 英语",
       "people": [
         "乔尔·麦克哈尔",
         "吉莉安·雅各布斯",
@@ -18985,7 +18985,7 @@
         "吉姆·拉什",
         "郑肯",
         "切维·切斯",
-        "翠西亚·希弗",
+        "马尔科姆·麦克道威尔",
         "www.nbc.com",
         "community",
         "特斯塔姆·莎佩罗",
@@ -20837,7 +20837,7 @@
       "aka": [
         "Partly Cloudy",
         "局部多云",
-        "部分多云"
+        "部分多云 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3734350/",
       "cover": "data/posters/3734350.jpg",
@@ -21926,7 +21926,7 @@
       "aka": [
         "鹿鼎記II 神龍教",
         "鹿鼎记II：神龙教",
-        "鹿鼎记2：神龙教"
+        "鹿鼎记2：神龙教 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1306951/",
       "cover": "data/posters/1306951.jpg",
@@ -23255,21 +23255,21 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "1997-03-03 / Barbara Soehner / Amir Williams / Nicole Carin / Bart Fasbender / Tracy Grandstaff / 朱利安·雷博雷多 / Tracy Lee Bell / 马克·汤普森 / Hardy Rawls / Zeke Farrow / 美国 / 凯伦·迪歇尔 / 克里斯·普瑞诺斯基 / Guy Moore / 拽妹黛薇儿 / 30分钟 / 拽妹黛薇儿 / 动画 / 喜剧 / Glenn Eichler / Peggy Nicoll / Anne D. Bernstein / 英语",
+      "intro_raw": "1997-03-03 / Rita Pietropinto / Zeke Farrow / Evan Farmer / 莎拉·德鲁 / Jessica Zaino / Sarah Fader / 吉奥弗瑞·阿伦德 / Amy Bennett / 凯文·丹尼尔斯 / 温迪胡普斯 / 美国 / Guy Moore / 克里斯·普瑞诺斯基 / 凯伦·迪歇尔 / 拽妹黛薇儿 / 30分钟 / 拽妹黛薇儿 / 动画 / 喜剧 / Glenn Eichler / Peggy Nicoll / Anne D. Bernstein / 英语",
       "people": [
-        "Barbara Soehner",
-        "Amir Williams",
-        "Nicole Carin",
-        "Bart Fasbender",
-        "Tracy Grandstaff",
-        "朱利安·雷博雷多",
-        "Tracy Lee Bell",
-        "马克·汤普森",
-        "Hardy Rawls",
+        "Rita Pietropinto",
         "Zeke Farrow",
-        "凯伦·迪歇尔",
-        "克里斯·普瑞诺斯基",
+        "Evan Farmer",
+        "莎拉·德鲁",
+        "Jessica Zaino",
+        "Sarah Fader",
+        "吉奥弗瑞·阿伦德",
+        "Amy Bennett",
+        "凯文·丹尼尔斯",
+        "温迪胡普斯",
         "Guy Moore",
+        "克里斯·普瑞诺斯基",
+        "凯伦·迪歇尔",
         "拽妹黛薇儿",
         "拽妹黛薇儿",
         "Glenn Eichler",
@@ -26123,7 +26123,7 @@
       "aka": [
         "Memento",
         "凶心人(港)",
-        "记忆拼图(台)"
+        "记忆拼图(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1304447/",
       "cover": "data/posters/1304447.jpg",
@@ -27322,7 +27322,7 @@
       "aka": [
         "There&#39;s Something About Mary",
         "都是玛丽惹的祸",
-        "哈拉玛丽"
+        "哈拉玛丽 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1294165/",
       "cover": "data/posters/1294165.jpg",
@@ -27470,7 +27470,7 @@
       "aka": [
         "Sweeney Todd: The Demon Barber of Fleet Street",
         "魔街理发师(港)",
-        "疯狂理发师：伦敦首席恶魔剃刀手(台)"
+        "疯狂理发师：伦敦首席恶魔剃刀手(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1820145/",
       "cover": "data/posters/1820145.jpg",
@@ -27634,18 +27634,18 @@
         "英语"
       ],
       "runtime": "93分钟",
-      "intro_raw": "2007-09-01 / Glen Matlock / 比利·乔·阿姆斯特朗 / 杰拉德·威 / Ian MacKaye / Riley Breckenridge / Jimmy Pursey / Peter Finestone / David Vanian / 约翰尼·雷蒙 / Charlie Harper / 美国 / 93分钟 / 朋克不死 / 纪录片 / 音乐 / 英语",
+      "intro_raw": "2007-09-01 / Glen Matlock / 比利·乔·阿姆斯特朗 / 杰拉德·威 / 杰洛·比法 / 史蒂夫·布鲁斯 / Dave Baksh / Brian Baker / Dominic Davi / 比利·伊多尔 / Brendan Canty / 美国 / 93分钟 / 朋克不死 / 纪录片 / 音乐 / 英语",
       "people": [
         "Glen Matlock",
         "比利·乔·阿姆斯特朗",
         "杰拉德·威",
-        "Ian MacKaye",
-        "Riley Breckenridge",
-        "Jimmy Pursey",
-        "Peter Finestone",
-        "David Vanian",
-        "约翰尼·雷蒙",
-        "Charlie Harper",
+        "杰洛·比法",
+        "史蒂夫·布鲁斯",
+        "Dave Baksh",
+        "Brian Baker",
+        "Dominic Davi",
+        "比利·伊多尔",
+        "Brendan Canty",
         "朋克不死"
       ],
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555588352.jpg"
@@ -27894,7 +27894,7 @@
       "aka": [
         "Iron Man 3",
         "铁甲奇侠3(港)",
-        "钢铁人3(台)"
+        "钢铁人3(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3231742/",
       "cover": "data/posters/3231742.jpg",
@@ -30167,7 +30167,7 @@
         "冯勉恒 Min Hun Fung",
         "梁嘉杰 Ka-Kit Leung"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2618313392.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917778954.jpg"
     },
     {
       "id": "1292679",
@@ -31851,7 +31851,7 @@
         "汉语普通话"
       ],
       "runtime": "16分钟",
-      "intro_raw": "2013-06-05(中国大陆) / 大鹏 / 汤唯 / 吴秀波 / 温兆伦 / 杨幂 / 韩寒 / 波多野结衣 / 姜涛 / 宫睿 / 吴思凡 / 中国大陆 / 大鹏 / 16分钟 / 喜剧 / 大鹏 Chengpeng Dong / 汉语普通话",
+      "intro_raw": "2013-06-05(中国大陆) / 大鹏 / 汤唯 / 吴秀波 / 温兆伦 / 杨幂 / 韩寒 / 波多野结衣 / 林志玲 / 柳岩 / 邓超 / 中国大陆 / 大鹏 / 16分钟 / 喜剧 / 大鹏 Chengpeng Dong / 汉语普通话",
       "people": [
         "大鹏",
         "汤唯",
@@ -31860,9 +31860,9 @@
         "杨幂",
         "韩寒",
         "波多野结衣",
-        "姜涛",
-        "宫睿",
-        "吴思凡",
+        "林志玲",
+        "柳岩",
+        "邓超",
         "大鹏",
         "大鹏 Chengpeng Dong"
       ],
