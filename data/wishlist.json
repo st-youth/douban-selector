@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 647,
   "fetched": 635,
-  "fetched_at": "2026-08-11T00:01:26+0000",
+  "fetched_at": "2026-08-12T00:01:25+0000",
   "movies": [
     {
       "id": "36936169",
@@ -854,7 +854,7 @@
         "屠传德 Chuande Tu",
         "黄蜀芹 Shuqin Huang"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1333229056.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2892094023.jpg"
     },
     {
       "id": "36156271",
@@ -10393,13 +10393,17 @@
         "美国"
       ],
       "genres": [
-        "喜剧"
+        "喜剧",
+        "动作",
+        "纪录片"
       ],
       "languages": [
-        "英语"
+        "英语",
+        "日语",
+        "西班牙语"
       ],
-      "runtime": "87 分钟",
-      "intro_raw": "2002-10-25 / 约翰尼·诺克斯维尔 / 班姆·玛吉瑞 / 史蒂夫 / 克里斯·庞蒂斯 / 瑞恩·邓恩 / 杰森·阿库纳 / 普雷斯顿·莱西 / 戴夫·英格兰 / 艾伦·麦格海 / 布兰登·狄卡米洛 / 美国 / 杰夫·特里梅因 / 87 分钟 / 蠢蛋搞怪秀 / 喜剧 / 杰夫·特里梅因 Jeff Tremaine / 斯派克·琼斯 Spike Jonze / 约翰尼·诺克斯维尔 Johnny Knoxville / 班姆·玛吉瑞 Bam Margera / 史蒂夫 Steve-O / 普雷斯顿·莱西 Preston Lacy / 克里斯·庞蒂斯 Chris Pontius / 戴夫·英格兰 Dave England / 瑞恩·邓恩 Ryan Dunn / Ehren McGhehey / Brandon Dicamillo / Dimitry Elyashkevich / Whitey McConnaughy / Sean Cliver / Loomis Fall / 维农·查特曼 Vernon Chatman / 英语",
+      "runtime": "85分钟",
+      "intro_raw": "2002-10-25(美国) / 约翰尼·诺克斯维尔 / 班姆·玛吉瑞 / 史蒂夫 / 克里斯·庞蒂斯 / 瑞恩·邓恩 / 杰森·阿库纳 / 普雷斯顿·莱西 / 戴夫·英格兰 / 艾伦·麦格海 / 布兰登·狄卡米洛 / 美国 / 杰夫·特里梅因 / 85分钟 / 蠢蛋搞怪秀 / 喜剧 / 动作 / 纪录片 / 杰夫·特里梅因 Jeff Tremaine / 斯派克·琼斯 Spike Jonze / 约翰尼·诺克斯维尔 Johnny Knoxville / 班姆·玛吉瑞 Bam Margera / 史蒂夫 Steve-O / 普雷斯顿·莱西 Preston Lacy / 克里斯·庞蒂斯 Chris Pontius / 戴夫·英格兰 Dave England / 瑞恩·邓恩 Ryan Dunn / 艾伦·麦格海 Ehren McGhehey / 布兰登·狄卡米洛 Brandon Dicamillo / 迪米特里·伊莱什凯维奇 Dimitry Elyashkevich / Whitey McConnaughy / 肖恩·克里弗 Sean Cliver / 鲁密斯·法尔 Loomis Fall / 英语 / 日语 / 西班牙语",
       "people": [
         "约翰尼·诺克斯维尔",
         "班姆·玛吉瑞",
@@ -10422,13 +10426,12 @@
         "克里斯·庞蒂斯 Chris Pontius",
         "戴夫·英格兰 Dave England",
         "瑞恩·邓恩 Ryan Dunn",
-        "Ehren McGhehey",
-        "Brandon Dicamillo",
-        "Dimitry Elyashkevich",
+        "艾伦·麦格海 Ehren McGhehey",
+        "布兰登·狄卡米洛 Brandon Dicamillo",
+        "迪米特里·伊莱什凯维奇 Dimitry Elyashkevich",
         "Whitey McConnaughy",
-        "Sean Cliver",
-        "Loomis Fall",
-        "维农·查特曼 Vernon Chatman"
+        "肖恩·克里弗 Sean Cliver",
+        "鲁密斯·法尔 Loomis Fall"
       ],
       "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1337958344.jpg"
     },
