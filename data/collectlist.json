@@ -2,10 +2,57 @@
   "user": "156631516",
   "type": "collect",
   "label": "看过",
-  "total_declared": 726,
-  "fetched": 724,
-  "fetched_at": "2026-08-13T00:03:02+0000",
+  "total_declared": 727,
+  "fetched": 725,
+  "fetched_at": "2026-08-14T00:03:01+0000",
   "movies": [
+    {
+      "id": "26752088",
+      "cid": "4917707307",
+      "title": "我不是药神",
+      "aka": [
+        "中国药神",
+        "印度药神 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/26752088/",
+      "cover": "data/posters/26752088.jpg",
+      "year": "2018",
+      "mark_date": "2026-08-14",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "中国大陆"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话",
+        "英语",
+        "上海话",
+        "印地语"
+      ],
+      "runtime": "117分钟",
+      "intro_raw": "2018-06-30(大规模点映) / 2018-07-05(中国大陆) / 徐峥 / 王传君 / 周一围 / 谭卓 / 章宇 / 杨新鸣 / 王砚辉 / 王佳佳 / 贾弘逍 / 龚蓓苾 / 中国大陆 / 文牧野 / 2018-06-30 00:00 / 117分钟 / 剧情 / 喜剧 / 韩家女 Jianü Han / 钟伟 Wei Zhong / 文牧野 Muye Wen / 汉语普通话 / 英语 / 上海话 / 印地语",
+      "people": [
+        "徐峥",
+        "王传君",
+        "周一围",
+        "谭卓",
+        "章宇",
+        "杨新鸣",
+        "王砚辉",
+        "王佳佳",
+        "贾弘逍",
+        "龚蓓苾",
+        "文牧野",
+        "韩家女 Jianü Han",
+        "钟伟 Wei Zhong",
+        "文牧野 Muye Wen"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527119568.jpg"
+    },
     {
       "id": "36882191",
       "cid": "4906064591",
