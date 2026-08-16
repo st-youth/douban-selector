@@ -2,10 +2,98 @@
   "user": "156631516",
   "type": "collect",
   "label": "看过",
-  "total_declared": 727,
-  "fetched": 725,
-  "fetched_at": "2026-08-15T00:03:01+0000",
+  "total_declared": 729,
+  "fetched": 727,
+  "fetched_at": "2026-08-16T00:03:01+0000",
   "movies": [
+    {
+      "id": "3279107",
+      "cid": "4919885201",
+      "title": "大兵小将",
+      "aka": [
+        "Little Big Soldier [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/3279107/",
+      "cover": "data/posters/3279107.jpg",
+      "year": "2010",
+      "mark_date": "2026-08-15",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "动作",
+        "冒险",
+        "喜剧"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "96分钟",
+      "intro_raw": "2010-02-14(中国大陆) / 成龙 / 王力宏 / 刘承俊 / 杜玉明 / 林鹏 / 徐冬梅 / 王宝强 / 于荣光 / 卢惠光 / 晋松 / 中国大陆 / 中国香港 / dbxj.ent.sina.com.cn / 丁晟 / 96分钟 / 动作 / 冒险 / 喜剧 / 丁晟 Sheng Ding / 汉语普通话",
+      "people": [
+        "成龙",
+        "王力宏",
+        "刘承俊",
+        "杜玉明",
+        "林鹏",
+        "徐冬梅",
+        "王宝强",
+        "于荣光",
+        "卢惠光",
+        "晋松",
+        "dbxj.ent.sina.com.cn",
+        "丁晟",
+        "丁晟 Sheng Ding"
+      ],
+      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1682724960.jpg"
+    },
+    {
+      "id": "36600459",
+      "cid": "4919882158",
+      "title": "捕风追影",
+      "aka": [
+        "极盗跟踪",
+        "跟踪(中国内地版) [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/36600459/",
+      "cover": "data/posters/36600459.jpg",
+      "year": "2025",
+      "mark_date": "2026-08-15",
+      "rating": 4,
+      "comment": "",
+      "countries": [
+        "中国大陆",
+        "中国香港"
+      ],
+      "genres": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "languages": [
+        "汉语普通话"
+      ],
+      "runtime": "141分钟",
+      "intro_raw": "2025-08-16(中国大陆) / 成龙 / 张子枫 / 梁家辉 / 此沙 / 文俊辉 / 周政杰 / 王杍逸 / 郎月婷 / 林秋楠 / 王振威 / 中国大陆 / 中国香港 / 杨子 / 2025-08-02 16:20 / 141分钟 / 剧情 / 动作 / 犯罪 / 杨子 Larry Yang / 汉语普通话",
+      "people": [
+        "成龙",
+        "张子枫",
+        "梁家辉",
+        "此沙",
+        "文俊辉",
+        "周政杰",
+        "王杍逸",
+        "郎月婷",
+        "林秋楠",
+        "王振威",
+        "杨子",
+        "杨子 Larry Yang"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924069675.jpg"
+    },
     {
       "id": "26752088",
       "cid": "4917707307",
@@ -7227,7 +7315,7 @@
         "英语"
       ],
       "runtime": "22分钟",
-      "intro_raw": "2016-09-19(美国) / 克里斯汀·贝尔 / 特德·丹森 / 威廉·杰克森·哈珀 / 亚当·休伯 / 曼尼·贾希尼托 / 班巴德贾恩·班巴 / 杰姬·托恩 / 达茜·卡尔登 / 林奈特·加莎 / 米本学仁 / 美国 / 德鲁·戈达德 / 善地 / 22分钟 / 善地 / 喜剧 / Michael Schur / 英语",
+      "intro_raw": "2016-09-19(美国) / 克里斯汀·贝尔 / 特德·丹森 / 威廉·杰克森·哈珀 / 亚当·休伯 / 曼尼·贾希尼托 / 班巴德贾恩·班巴 / 杰姬·托恩 / 达茜·卡尔登 / 嘉玛·威廉姆森 / 贾米拉·贾米尔 / 美国 / 德鲁·戈达德 / 善地 / 22分钟 / 善地 / 喜剧 / Michael Schur / 英语",
       "people": [
         "克里斯汀·贝尔",
         "特德·丹森",
@@ -7237,8 +7325,8 @@
         "班巴德贾恩·班巴",
         "杰姬·托恩",
         "达茜·卡尔登",
-        "林奈特·加莎",
-        "米本学仁",
+        "嘉玛·威廉姆森",
+        "贾米拉·贾米尔",
         "德鲁·戈达德",
         "善地",
         "善地",
@@ -27155,7 +27243,7 @@
         "简·皮克瓦 Jan Pinkava",
         "吉姆·卡波比安科 Jim Capobianco"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1624418876.jpg"
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1803013091.jpg"
     },
     {
       "id": "2131459",
