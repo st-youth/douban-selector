@@ -2,10 +2,53 @@
   "user": "156631516",
   "type": "wish",
   "label": "想看",
-  "total_declared": 647,
-  "fetched": 635,
-  "fetched_at": "2026-08-23T00:01:29+0000",
+  "total_declared": 648,
+  "fetched": 636,
+  "fetched_at": "2026-08-24T00:01:25+0000",
   "movies": [
+    {
+      "id": "26879590",
+      "cid": "4927944956",
+      "title": "超正常化",
+      "aka": [
+        "HyperNormalisation",
+        "Living in an Unreal World",
+        "生活在虚幻的世界"
+      ],
+      "url": "https://movie.douban.com/subject/26879590/",
+      "cover": "data/posters/26879590.jpg",
+      "year": "2016",
+      "mark_date": "2026-08-24",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "166分钟",
+      "intro_raw": "2016-10-16(英国) / 亚当·柯蒂斯 / 唐纳德·特朗普 / 弗拉基米尔·普京 / 帕蒂·史密斯 / 亨利·基辛格 / 哈菲兹·阿萨德 / Leslie Gelb / 罗纳德·里根 / 南希·里根 / 蒂莫西·利瑞 / 英国 / 亚当·柯蒂斯 / 166分钟 / 超正常化 / 纪录片 / 亚当·柯蒂斯 Adam Curtis / 英语",
+      "people": [
+        "亚当·柯蒂斯",
+        "唐纳德·特朗普",
+        "弗拉基米尔·普京",
+        "帕蒂·史密斯",
+        "亨利·基辛格",
+        "哈菲兹·阿萨德",
+        "Leslie Gelb",
+        "罗纳德·里根",
+        "南希·里根",
+        "蒂莫西·利瑞",
+        "亚当·柯蒂斯",
+        "超正常化",
+        "亚当·柯蒂斯 Adam Curtis"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2504753776.jpg"
+    },
     {
       "id": "36936169",
       "cid": "4892940855",
@@ -2691,7 +2734,7 @@
         "魔女嘉莉",
         "劳伦斯·D·科昂 Lawrence D. Cohen"
       ],
-      "cover_remote": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1996522359.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2209365872.jpg"
     },
     {
       "id": "35258427",
