@@ -2,10 +2,57 @@
   "user": "156631516",
   "type": "wish",
   "label": "想看",
-  "total_declared": 648,
-  "fetched": 636,
-  "fetched_at": "2026-08-24T00:01:25+0000",
+  "total_declared": 649,
+  "fetched": 637,
+  "fetched_at": "2026-08-25T00:01:28+0000",
   "movies": [
+    {
+      "id": "1300892",
+      "cid": "4928166590",
+      "title": "内陆惊魂",
+      "aka": [
+        "Wake in Fright",
+        "假期惊魂 [可播放]"
+      ],
+      "url": "https://movie.douban.com/subject/1300892/",
+      "cover": "data/posters/1300892.jpg",
+      "year": "1971",
+      "mark_date": "2026-08-24",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "澳大利亚",
+        "英国",
+        "美国"
+      ],
+      "genres": [
+        "剧情",
+        "惊悚"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "109分钟",
+      "intro_raw": "1971-05 / 唐纳德·普利森斯 / 加里·邦德 / 奇普斯· 拉弗蒂 / 西尔维娅·卡伊 / 杰克·汤普森 / Peter Whittle / Al Thomas / 约翰·梅永 / John Armstrong / Slim DeGrey / 澳大利亚 / 英国 / 美国 / 特德·科特切夫 / 109分钟 / 内陆惊魂 / 剧情 / 惊悚 / 伊万·琼斯 Evan Jones / Kenneth Cook / 特德·科特切夫 Ted Kotcheff / 英语",
+      "people": [
+        "唐纳德·普利森斯",
+        "加里·邦德",
+        "奇普斯· 拉弗蒂",
+        "西尔维娅·卡伊",
+        "杰克·汤普森",
+        "Peter Whittle",
+        "Al Thomas",
+        "约翰·梅永",
+        "John Armstrong",
+        "Slim DeGrey",
+        "特德·科特切夫",
+        "内陆惊魂",
+        "伊万·琼斯 Evan Jones",
+        "Kenneth Cook",
+        "特德·科特切夫 Ted Kotcheff"
+      ],
+      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2215822301.jpg"
+    },
     {
       "id": "26879590",
       "cid": "4927944956",
