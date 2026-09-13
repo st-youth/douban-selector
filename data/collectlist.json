@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 730,
   "fetched": 728,
-  "fetched_at": "2026-09-12T00:03:05+0000",
+  "fetched_at": "2026-09-13T00:03:02+0000",
   "movies": [
     {
       "id": "1305487",
@@ -30593,7 +30593,7 @@
         "英语"
       ],
       "runtime": "22分钟",
-      "intro_raw": "2013-12-02(美国) / 贾斯汀·罗兰 / 克里斯·帕内尔 / 斯宾瑟·格拉默 / 萨拉·乔克 / 凯瑞·华格伦 / 汤姆·肯尼 / 阿尔弗雷德·莫里纳 / 约翰·奥利弗 / Hope Sandoval / 布兰登·约翰逊 / 美国 / www.rickandmorty.com / 贾斯汀·罗兰 / 瑞克和莫蒂 / 22分钟 / 瑞克和莫蒂 / 喜剧 / 科幻 / 动画 / 贾斯汀·罗兰 Justin Roiland / 丹·哈萌 Dan Harmon / 英语",
+      "intro_raw": "2013-12-02(美国) / 贾斯汀·罗兰 / 克里斯·帕内尔 / 斯宾瑟·格拉默 / 萨拉·乔克 / 凯瑞·华格伦 / 汤姆·肯尼 / 阿尔弗雷德·莫里纳 / 约翰·奥利弗 / Hope Sandoval / 布兰登·约翰逊 / 美国 / www.rickandmorty.com / 贾斯汀·罗兰 / Nathan Litz / Douglas Einar Olsen / 瑞克和莫蒂 / 22分钟 / 瑞克和莫蒂 / 喜剧 / 科幻 / 动画 / 贾斯汀·罗兰 Justin Roiland / 丹·哈萌 Dan Harmon / 英语",
       "people": [
         "贾斯汀·罗兰",
         "克里斯·帕内尔",
@@ -30607,6 +30607,8 @@
         "布兰登·约翰逊",
         "www.rickandmorty.com",
         "贾斯汀·罗兰",
+        "Nathan Litz",
+        "Douglas Einar Olsen",
         "瑞克和莫蒂",
         "瑞克和莫蒂",
         "贾斯汀·罗兰 Justin Roiland",
@@ -30764,7 +30766,7 @@
         "英语"
       ],
       "runtime": "25分钟",
-      "intro_raw": "2014-08-22(美国) / 亚伦·保尔 / 威尔·阿奈特 / 艾米·塞德丽丝 / 爱丽森·布里 / 保罗·F·汤普金斯 / 帕顿·奥斯瓦尔特 / 克里斯汀·沙尔 / 斯坦利·图齐 / 野路美苗 / 伊薇特·尼科尔·布朗 / 美国 / bojackhorseman.com / J·C·冈泽尔兹 / 马男波杰克 / 25分钟 / 马男波杰克 / 剧情 / 喜剧 / 动画 / 拉尔菲尔·鲍勃-瓦克斯伯格 Raphael Bob-Waksberg / 英语",
+      "intro_raw": "2014-08-22(美国) / 亚伦·保尔 / 威尔·阿奈特 / 艾米·塞德丽丝 / 爱丽森·布里 / 保罗·F·汤普金斯 / 帕顿·奥斯瓦尔特 / 克里斯汀·沙尔 / 斯坦利·图齐 / 野路美苗 / 伊薇特·尼科尔·布朗 / 美国 / bojackhorseman.com / J·C·冈泽尔兹 / Mike Hollingsworth / 马男波杰克 / 25分钟 / 马男波杰克 / 剧情 / 喜剧 / 动画 / 拉尔菲尔·鲍勃-瓦克斯伯格 Raphael Bob-Waksberg / 英语",
       "people": [
         "亚伦·保尔",
         "威尔·阿奈特",
@@ -30778,6 +30780,7 @@
         "伊薇特·尼科尔·布朗",
         "bojackhorseman.com",
         "J·C·冈泽尔兹",
+        "Mike Hollingsworth",
         "马男波杰克",
         "马男波杰克",
         "拉尔菲尔·鲍勃-瓦克斯伯格 Raphael Bob-Waksberg"

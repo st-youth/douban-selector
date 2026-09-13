@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 649,
   "fetched": 637,
-  "fetched_at": "2026-09-12T00:01:30+0000",
+  "fetched_at": "2026-09-13T00:01:28+0000",
   "movies": [
     {
       "id": "1300892",
@@ -3262,7 +3262,7 @@
         "英语"
       ],
       "runtime": "21分钟",
-      "intro_raw": "2003-01-22 / Rob Wilson / 马克·印第里凯托 / Rich Vos / Pete Brown / 查理·墨菲 / 艾迪·格里芬 / Bill Boggs / Tanda Mercer / Joe Rosario / 吉姆·布鲁尔 / 美国 / Sergei Davidoff / 拉斯提·坎蒂耶夫 / 博卡·格德斯维特 / 尼尔·布伦南 / 查普尔秀 / 21分钟 / 查普尔秀 / 喜剧 / 舞台艺术 / 英语",
+      "intro_raw": "2003-01-22 / Rob Wilson / 马克·印第里凯托 / Rich Vos / Pete Brown / 查理·墨菲 / 艾迪·格里芬 / Bill Boggs / Tanda Mercer / Joe Rosario / 吉姆·布鲁尔 / 美国 / Sergei Davidoff / 拉斯提·坎蒂耶夫 / 博卡·格德斯维特 / 尼尔·布伦南 / Scott Vincent / 查普尔秀 / 21分钟 / 查普尔秀 / 喜剧 / 舞台艺术 / 英语",
       "people": [
         "Rob Wilson",
         "马克·印第里凯托",
@@ -3278,6 +3278,7 @@
         "拉斯提·坎蒂耶夫",
         "博卡·格德斯维特",
         "尼尔·布伦南",
+        "Scott Vincent",
         "查普尔秀",
         "查普尔秀",
         "舞台艺术"
