@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 649,
   "fetched": 637,
-  "fetched_at": "2026-09-14T00:01:27+0000",
+  "fetched_at": "2026-09-15T00:01:30+0000",
   "movies": [
     {
       "id": "1300892",
@@ -18476,7 +18476,7 @@
         "马丁·斯科塞斯",
         "未定名雷蒙斯乐队电影"
       ],
-      "cover_remote": "https://img1.doubanio.com/cuphead/movie-static/pics/movie_default_small.png"
+      "cover_remote": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_small.png"
     },
     {
       "id": "1419445",
