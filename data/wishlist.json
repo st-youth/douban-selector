@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 649,
   "fetched": 637,
-  "fetched_at": "2026-09-24T00:01:28+0000",
+  "fetched_at": "2026-09-25T00:01:25+0000",
   "movies": [
     {
       "id": "1300892",
@@ -23175,7 +23175,7 @@
       "title": "大红灯笼高高挂",
       "aka": [
         "Raise The Red Lantern",
-        "Épouses et concubines"
+        "Épouses et concubines [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1293323/",
       "cover": "data/posters/1293323.jpg",
