@@ -2,10 +2,57 @@
   "user": "156631516",
   "type": "wish",
   "label": "想看",
-  "total_declared": 649,
-  "fetched": 637,
-  "fetched_at": "2026-09-25T00:01:25+0000",
+  "total_declared": 650,
+  "fetched": 638,
+  "fetched_at": "2026-09-26T00:01:28+0000",
   "movies": [
+    {
+      "id": "37312482",
+      "cid": "4951557186",
+      "title": "爱上平行时空的你",
+      "aka": [
+        "Сводишь с ума",
+        "镜中恋人",
+        "跨镜疯情"
+      ],
+      "url": "https://movie.douban.com/subject/37312482/",
+      "cover": "data/posters/37312482.jpg",
+      "year": "2025",
+      "mark_date": "2026-09-25",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "俄罗斯"
+      ],
+      "genres": [
+        "剧情",
+        "喜剧",
+        "爱情",
+        "奇幻"
+      ],
+      "languages": [],
+      "runtime": "99分钟",
+      "intro_raw": "2025-10-09(俄罗斯) / 米拉·埃尔绍娃 / 尤里·纳索诺夫 / 安东·瓦西利耶夫 / 柳德米拉·阿尔捷米娃 / 安东·阿尔特梅夫 / 埃尔尚·阿列斯克罗夫 / 纳德兹达·伊万诺娃 / 罗扎·哈伊鲁林娜 / 玛丽亚·克罗托娃 / 尤里·李 / 俄罗斯 / 达里娅·列别杰娃 / 99分钟 / 爱上平行时空的你 / 剧情 / 喜剧 / 爱情 / 奇幻 / Darya Lebedeva / Olesya Likhacheva / Anastasiya Sedova / 俄罗斯语",
+      "people": [
+        "米拉·埃尔绍娃",
+        "尤里·纳索诺夫",
+        "安东·瓦西利耶夫",
+        "柳德米拉·阿尔捷米娃",
+        "安东·阿尔特梅夫",
+        "埃尔尚·阿列斯克罗夫",
+        "纳德兹达·伊万诺娃",
+        "罗扎·哈伊鲁林娜",
+        "玛丽亚·克罗托娃",
+        "尤里·李",
+        "达里娅·列别杰娃",
+        "爱上平行时空的你",
+        "Darya Lebedeva",
+        "Olesya Likhacheva",
+        "Anastasiya Sedova",
+        "俄罗斯语"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926958102.jpg"
+    },
     {
       "id": "1300892",
       "cid": "4928166590",

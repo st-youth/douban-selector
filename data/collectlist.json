@@ -2,10 +2,61 @@
   "user": "156631516",
   "type": "collect",
   "label": "看过",
-  "total_declared": 730,
-  "fetched": 728,
-  "fetched_at": "2026-09-25T00:02:58+0000",
+  "total_declared": 731,
+  "fetched": 729,
+  "fetched_at": "2026-09-26T00:03:04+0000",
   "movies": [
+    {
+      "id": "26359235",
+      "cid": "4951557090",
+      "title": "克里斯托弗·罗宾",
+      "aka": [
+        "Christopher Robin",
+        "小熊维尼真人版",
+        "小熊维尼"
+      ],
+      "url": "https://movie.douban.com/subject/26359235/",
+      "cover": "data/posters/26359235.jpg",
+      "year": "2018",
+      "mark_date": "2026-09-25",
+      "rating": 5,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "喜剧",
+        "动画",
+        "冒险"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "104分钟",
+      "intro_raw": "2018-08-03(美国) / 伊万·麦克格雷格 / 海莉·阿特维尔 / 勃朗特·卡迈克尔 / 马克·加蒂斯 / 奥利弗·福德·戴维斯 / 阿德里安·斯卡伯勒 / 罗杰·阿什顿-格里菲斯 / 阿曼达·劳伦斯 / 凯蒂·卡迈克尔 / 特里斯坦·斯特罗克 / 美国 / 马克·福斯特 / 104分钟 / 克里斯托弗·罗宾 / 喜剧 / 动画 / 冒险 / 亚历克斯·罗斯·派瑞 Alex Ross Perry / 汤姆·麦卡锡 Tom McCarthy / 艾莉森·施罗德 Allison Schroeder / Greg Brooker / 马克·斯蒂文·约翰逊 Mark Steven Johnson / A·A·米尔恩 A.A. Milne / 厄内斯特·谢巴德 Ernest Shepard / 英语",
+      "people": [
+        "伊万·麦克格雷格",
+        "海莉·阿特维尔",
+        "勃朗特·卡迈克尔",
+        "马克·加蒂斯",
+        "奥利弗·福德·戴维斯",
+        "阿德里安·斯卡伯勒",
+        "罗杰·阿什顿-格里菲斯",
+        "阿曼达·劳伦斯",
+        "凯蒂·卡迈克尔",
+        "特里斯坦·斯特罗克",
+        "马克·福斯特",
+        "克里斯托弗·罗宾",
+        "亚历克斯·罗斯·派瑞 Alex Ross Perry",
+        "汤姆·麦卡锡 Tom McCarthy",
+        "艾莉森·施罗德 Allison Schroeder",
+        "Greg Brooker",
+        "马克·斯蒂文·约翰逊 Mark Steven Johnson",
+        "A·A·米尔恩 A.A. Milne",
+        "厄内斯特·谢巴德 Ernest Shepard"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2523016274.jpg"
+    },
     {
       "id": "1305487",
       "cid": "4925851628",
@@ -8059,7 +8110,7 @@
         "汉语普通话"
       ],
       "runtime": "60分钟",
-      "intro_raw": "2020-07-25(中国大陆) / 马东 / 周迅 / 大张伟 / 张亚东 / 郭京飞 / 周深 / 汪峰 / 付菡 / 彭坦 / 白举纲 / 中国大陆 / 陈雨璇 / 王雪 / 60分钟 / 音乐 / 真人秀 / 汉语普通话",
+      "intro_raw": "2020-07-25(中国大陆) / 马东 / 周迅 / 大张伟 / 张亚东 / 郭京飞 / 周深 / 汪峰 / 付菡 / 彭坦 / 白举纲 / 中国大陆 / 陈雨璇 / 王雪 / 周宗政 / 60分钟 / 音乐 / 真人秀 / 汉语普通话",
       "people": [
         "马东",
         "周迅",
@@ -8072,7 +8123,8 @@
         "彭坦",
         "白举纲",
         "陈雨璇",
-        "王雪"
+        "王雪",
+        "周宗政"
       ],
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2615197029.jpg"
     },
