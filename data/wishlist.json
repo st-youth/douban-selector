@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 650,
   "fetched": 638,
-  "fetched_at": "2026-10-01T00:01:26+0000",
+  "fetched_at": "2026-10-02T00:01:30+0000",
   "movies": [
     {
       "id": "37312482",
@@ -18075,11 +18075,9 @@
       "languages": [
         "英语"
       ],
-      "runtime": "241分钟",
-      "intro_raw": "英国 / www.idreamofwires.org / 241分钟 / 英语",
-      "people": [
-        "www.idreamofwires.org"
-      ],
+      "runtime": "96分钟",
+      "intro_raw": "英国 / 96分钟 / 英语",
+      "people": [],
       "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2163970796.jpg"
     },
     {
