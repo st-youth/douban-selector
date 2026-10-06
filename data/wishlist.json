@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 650,
   "fetched": 638,
-  "fetched_at": "2026-10-05T00:01:27+0000",
+  "fetched_at": "2026-10-06T00:01:28+0000",
   "movies": [
     {
       "id": "37312482",
@@ -5327,7 +5327,7 @@
         "挪威语"
       ],
       "runtime": "109 分钟",
-      "intro_raw": "1982-06-25 / 库尔特·拉塞尔 / 威尔福德·布利姆雷 / TK·卡特 / 大卫·科列侬 / 凯斯·大卫 / 理查德·戴萨特 / 查尔斯·哈拉汉 / 理查德·马苏尔 / 唐纳德·莫法特 / 乔尔·波利斯 / 美国 / 约翰·卡朋特 / 109 分钟 / 怪形 / 科幻 / 悬疑 / 恐怖 / 比尔·兰卡斯特 Bill Lancaster / John W. Campbell Jr. / 英语 / 挪威语",
+      "intro_raw": "1982-06-25 / 库尔特·拉塞尔 / 威尔福德·布利姆雷 / TK·卡特 / 大卫·科列侬 / 凯斯·大卫 / 理查德·戴萨特 / 查尔斯·哈拉汉 / 彼得·马洛尼 / 理查德·马苏尔 / 唐纳德·莫法特 / 美国 / 约翰·卡朋特 / 109 分钟 / 怪形 / 科幻 / 悬疑 / 恐怖 / 比尔·兰卡斯特 Bill Lancaster / John W. Campbell Jr. / 英语 / 挪威语",
       "people": [
         "库尔特·拉塞尔",
         "威尔福德·布利姆雷",
@@ -5336,9 +5336,9 @@
         "凯斯·大卫",
         "理查德·戴萨特",
         "查尔斯·哈拉汉",
+        "彼得·马洛尼",
         "理查德·马苏尔",
         "唐纳德·莫法特",
-        "乔尔·波利斯",
         "约翰·卡朋特",
         "怪形",
         "比尔·兰卡斯特 Bill Lancaster",
@@ -17254,7 +17254,7 @@
         "菲丽丝·奈吉 Phyllis Nagy",
         "派翠西亚·海史密斯 Patricia Highsmith"
       ],
-      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2200871861.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2312679154.jpg"
     },
     {
       "id": "3743114",
