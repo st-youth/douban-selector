@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 650,
   "fetched": 638,
-  "fetched_at": "2026-10-12T00:01:30+0000",
+  "fetched_at": "2026-10-13T00:03:30+0000",
   "movies": [
     {
       "id": "37312482",
@@ -17497,7 +17497,7 @@
       ],
       "url": "https://movie.douban.com/subject/3590873/",
       "cover": "data/posters/3590873.jpg",
-      "year": "",
+      "year": "1972",
       "mark_date": "2019-04-09",
       "rating": 0,
       "comment": "",
@@ -17511,7 +17511,7 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "约翰·伯格 / 英国 / www.bbc.co.uk/programmes/b00dtnvm / 约翰·伯格 / 30分钟 / 观看之道 / 纪录片 / 约翰伯格 John Berger / 英语",
+      "intro_raw": "1972-01-08(英国) / 约翰·伯格 / 英国 / www.bbc.co.uk/programmes/b00dtnvm / 约翰·伯格 / 30分钟 / 观看之道 / 纪录片 / 约翰伯格 John Berger / 英语",
       "people": [
         "约翰·伯格",
         "www.bbc.co.uk",
