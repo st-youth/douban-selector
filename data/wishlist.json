@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 650,
   "fetched": 638,
-  "fetched_at": "2026-10-15T00:01:28+0000",
+  "fetched_at": "2026-10-16T00:01:46+0000",
   "movies": [
     {
       "id": "37312482",
@@ -1385,8 +1385,8 @@
       "languages": [
         "英语"
       ],
-      "runtime": "",
-      "intro_raw": "2024-11-19(美国) / 欧阳万成 / 汪可盈 / 钱信伊 / 马泰 / 丽萨·吉洛伊 / 高圣远 / 沙利文·琼斯 / 洲龙 / 林晓杰 / 安妮·张 / 美国 / 塔伊加·维迪提 / 内景唐人街 / 剧情 / 犯罪 / 游朝凯 Charles Yu / 伊娃·安德森 / 英语",
+      "runtime": "42分钟",
+      "intro_raw": "2024-11-19(美国) / 欧阳万成 / 汪可盈 / 钱信伊 / 马泰 / 丽萨·吉洛伊 / 高圣远 / 沙利文·琼斯 / 洲龙 / 林晓杰 / 安妮·张 / 美国 / 塔伊加·维迪提 / 42分钟 / 内景唐人街 / 剧情 / 犯罪 / 游朝凯 Charles Yu / 伊娃·安德森 / 英语",
       "people": [
         "欧阳万成",
         "汪可盈",
@@ -1403,7 +1403,7 @@
         "游朝凯 Charles Yu",
         "伊娃·安德森"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929244268.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914509076.jpg"
     },
     {
       "id": "1296534",
@@ -1756,13 +1756,14 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "2022-09-19(英国) / 戴安·摩根 / 吉姆·艾尔-哈利利 / 基兰·霍奇森 / 乔纳森·弗格森 / 露丝·亚当斯 / 英国 /  / 30分钟 / 扯淡地球史 / 喜剧 / 纪录片 / Jason Hazeley / Tom Baker / 查理·布鲁克 Charlie Brooker / 英语",
+      "intro_raw": "2022-09-19(英国) / 戴安·摩根 / 吉姆·艾尔-哈利利 / 基兰·霍奇森 / 乔纳森·弗格森 / 露丝·亚当斯 / 英国 / 克里斯蒂安·沃特 /  / 30分钟 / 扯淡地球史 / 喜剧 / 纪录片 / Jason Hazeley / Tom Baker / 查理·布鲁克 Charlie Brooker / 英语",
       "people": [
         "戴安·摩根",
         "吉姆·艾尔-哈利利",
         "基兰·霍奇森",
         "乔纳森·弗格森",
         "露丝·亚当斯",
+        "克里斯蒂安·沃特",
         "扯淡地球史",
         "Jason Hazeley",
         "Tom Baker",
@@ -17768,7 +17769,7 @@
         "埃里克·海瑟尔 Eric Heisserer",
         "姜峯楠 Ted Chiang"
       ],
-      "cover_remote": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2411622421.jpg"
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2374828735.jpg"
     },
     {
       "id": "20515892",
