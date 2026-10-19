@@ -2,10 +2,303 @@
   "user": "156631516",
   "type": "wish",
   "label": "想看",
-  "total_declared": 650,
-  "fetched": 638,
-  "fetched_at": "2026-10-18T00:01:32+0000",
+  "total_declared": 658,
+  "fetched": 646,
+  "fetched_at": "2026-10-19T00:01:26+0000",
   "movies": [
+    {
+      "id": "36777371",
+      "cid": "4969218769",
+      "title": "Cunk&#39;s Quest for Meaning",
+      "aka": [],
+      "url": "https://movie.douban.com/subject/36777371/",
+      "cover": "data/posters/36777371.png",
+      "year": "2026",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "75分钟",
+      "intro_raw": "2026(未定) / 戴安·摩根 / 英国 / 75分钟 / 喜剧 / 英语",
+      "people": [
+        "戴安·摩根"
+      ],
+      "cover_remote": "https://asset.doubanio.com/cuphead/movie-static/pics/movie_default_small.png"
+    },
+    {
+      "id": "38422419",
+      "cid": "4969218685",
+      "title": "扯淡电影史",
+      "aka": [
+        "Cunk on Cinema"
+      ],
+      "url": "https://movie.douban.com/subject/38422419/",
+      "cover": "data/posters/38422419.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "纪录片",
+        "真人秀"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "",
+      "intro_raw": "2026(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 英国 / 阿尔·坎贝尔 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
+      "people": [
+        "戴安·摩根",
+        "迈克尔·贝",
+        "本尼迪克特·康伯巴奇",
+        "马克·柯莫德",
+        "马克·卡曾斯",
+        "丹尼尔·彭伯顿",
+        "斯蒂芬·E.德·索萨",
+        "西穆斯·迈克加维",
+        "阿尔·坎贝尔",
+        "扯淡电影史",
+        "查理·布鲁克 Charlie Brooker",
+        "本·考德尔 Ben Caudell",
+        "艾丽卡·埃勒 Erika Ehler",
+        "艾丽·戈德斯通 Eli Goldstone",
+        "杰森·哈泽雷 Jason Hazeley",
+        "丹尼尔·迈尔 Daniel Maier",
+        "戴安·摩根 Diane Morgan",
+        "乔尔·莫里斯 Joel Morris",
+        "迈克尔·奥德瓦勒 Michael Odewale",
+        "Kali Varghese",
+        "Sam Ward Sam Ward"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935821638.jpg"
+    },
+    {
+      "id": "37143090",
+      "cid": "4969218511",
+      "title": "扯淡生命史",
+      "aka": [
+        "Cunk on Life",
+        "亂噏生命史(港)"
+      ],
+      "url": "https://movie.douban.com/subject/37143090/",
+      "cover": "data/posters/37143090.jpg",
+      "year": "2024",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "70分钟",
+      "intro_raw": "2024-12-30(英国) / 戴安·摩根 / 米歇尔·格里尼奇 / 查尔斯·艾特肯 / 杰瑞·怀尔德 / 露丝·亚当斯 / 吉姆·艾尔-哈利利 / 洛瑞·布瑞 / 斯蒂芬·卡斯 / 张美露 / 布莱恩·考克斯 / 英国 / 阿尔·坎贝尔 / 70分钟 / 扯淡生命史 / 喜剧 / 查理·布鲁克 Charlie Brooker / Ben Caudell / Erika Ehler / Charlie George / Eli Goldstone / Jason Hazeley / Lucia Keskin / Joel Morris / Michael Odewale / 英语",
+      "people": [
+        "戴安·摩根",
+        "米歇尔·格里尼奇",
+        "查尔斯·艾特肯",
+        "杰瑞·怀尔德",
+        "露丝·亚当斯",
+        "吉姆·艾尔-哈利利",
+        "洛瑞·布瑞",
+        "斯蒂芬·卡斯",
+        "张美露",
+        "布莱恩·考克斯",
+        "阿尔·坎贝尔",
+        "扯淡生命史",
+        "查理·布鲁克 Charlie Brooker",
+        "Ben Caudell",
+        "Erika Ehler",
+        "Charlie George",
+        "Eli Goldstone",
+        "Jason Hazeley",
+        "Lucia Keskin",
+        "Joel Morris",
+        "Michael Odewale"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916815727.jpg"
+    },
+    {
+      "id": "34938513",
+      "cid": "4969218186",
+      "title": "扯淡人物志2019",
+      "aka": [
+        "Cunk &amp; Other Humans on 2019"
+      ],
+      "url": "https://movie.douban.com/subject/34938513/",
+      "cover": "data/posters/34938513.jpg",
+      "year": "2019",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "",
+      "intro_raw": "2019-12-16(英国) / 戴安·摩根 / 英国 /  / 扯淡人物志2019 / 喜剧 / 英语",
+      "people": [
+        "戴安·摩根",
+        "扯淡人物志2019"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2580693172.jpg"
+    },
+    {
+      "id": "30192037",
+      "cid": "4969218062",
+      "title": "扯蛋英国史",
+      "aka": [
+        "Cunk On Britain"
+      ],
+      "url": "https://movie.douban.com/subject/30192037/",
+      "cover": "data/posters/30192037.jpg",
+      "year": "2018",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2018-04-03(英国) / 戴安·摩根 / 英国 / 洛里·鲍尔斯 / 30分钟 / 扯蛋英国史 / 喜剧 / 查理·布鲁克 Charlie Brooker / Ben Caudell / Jason Hazeley / Joel Morris / 英语",
+      "people": [
+        "戴安·摩根",
+        "洛里·鲍尔斯",
+        "扯蛋英国史",
+        "查理·布鲁克 Charlie Brooker",
+        "Ben Caudell",
+        "Jason Hazeley",
+        "Joel Morris"
+      ],
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520279672.jpg"
+    },
+    {
+      "id": "26959749",
+      "cid": "4969217897",
+      "title": "扯蛋圣诞史",
+      "aka": [
+        "Cunk on Christmas"
+      ],
+      "url": "https://movie.douban.com/subject/26959749/",
+      "cover": "data/posters/26959749.jpg",
+      "year": "2016",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2016-12-29(英国) / 戴安·摩根 / 英国 / 洛里·鲍尔斯 / 30分钟 / 扯蛋圣诞史 / 喜剧 / Charlie Brooker / Jason Hazeley / 英语",
+      "people": [
+        "戴安·摩根",
+        "洛里·鲍尔斯",
+        "扯蛋圣诞史",
+        "Charlie Brooker",
+        "Jason Hazeley"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2921784984.jpg"
+    },
+    {
+      "id": "26713480",
+      "cid": "4969217813",
+      "title": "扯蛋莎翁史",
+      "aka": [
+        "Cunk on Shakespeare"
+      ],
+      "url": "https://movie.douban.com/subject/26713480/",
+      "cover": "data/posters/26713480.jpg",
+      "year": "2016",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "英国"
+      ],
+      "genres": [
+        "喜剧",
+        "短片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "30分钟",
+      "intro_raw": "2016-05-11(英国) / 戴安·摩根 / 英国 / 洛里·鲍尔斯 / 30分钟 / 扯蛋莎翁史 / 喜剧 / 短片 / 查理·布鲁克 Charlie Brooker / Jason Hazeley / Joel Morris / 英语",
+      "people": [
+        "戴安·摩根",
+        "洛里·鲍尔斯",
+        "扯蛋莎翁史",
+        "查理·布鲁克 Charlie Brooker",
+        "Jason Hazeley",
+        "Joel Morris"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528553655.jpg"
+    },
+    {
+      "id": "38643086",
+      "cid": "4969214856",
+      "title": "你能看到一切",
+      "aka": [
+        "You Can See Everything"
+      ],
+      "url": "https://movie.douban.com/subject/38643086/",
+      "cover": "data/posters/38643086.jpg",
+      "year": "2026",
+      "mark_date": "2026-10-19",
+      "rating": 0,
+      "comment": "",
+      "countries": [
+        "美国"
+      ],
+      "genres": [
+        "纪录片"
+      ],
+      "languages": [
+        "英语"
+      ],
+      "runtime": "174分钟",
+      "intro_raw": "2026-09-06(特柳赖德电影节) / 2026-10-16(美国) / 内森·菲尔德 / 伊丽莎白·霍姆斯 / 美国 / 内森·菲尔德 / 兰斯·奥本海姆 / 174分钟 / 你能看到一切 / 纪录片 / 英语",
+      "people": [
+        "内森·菲尔德",
+        "伊丽莎白·霍姆斯",
+        "内森·菲尔德",
+        "兰斯·奥本海姆",
+        "你能看到一切"
+      ],
+      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935589585.jpg"
+    },
     {
       "id": "37312482",
       "cid": "4951557186",
@@ -27318,8 +27611,9 @@
         "日语"
       ],
       "runtime": "173分钟",
-      "intro_raw": "2000-05-14(戛纳电影节) / 2000-12-16(日本) / 2017-07-28(中国台湾) / 李凯莉 / 金燕玲 / 张洋洋 / 萧淑慎 / 尾形一成 / 陈希圣 / 林孟瑾 / 陈以文 / 柯宇纶 / 张育邦 / 中国台湾 / 日本 / 杨德昌 / 173分钟 / 剧情 / 爱情 / 家庭 / 杨德昌 Edward Yang / 汉语普通话 / 闽南语 / 英语 / 日语",
+      "intro_raw": "2000-05-14(戛纳电影节) / 2000-12-16(日本) / 2017-07-28(中国台湾) / 吴念真 / 李凯莉 / 金燕玲 / 张洋洋 / 萧淑慎 / 尾形一成 / 陈希圣 / 林孟瑾 / 陈以文 / 柯宇纶 / 中国台湾 / 日本 / 杨德昌 / 173分钟 / 剧情 / 爱情 / 家庭 / 杨德昌 Edward Yang / 汉语普通话 / 闽南语 / 英语 / 日语",
       "people": [
+        "吴念真",
         "李凯莉",
         "金燕玲",
         "张洋洋",
@@ -27329,7 +27623,6 @@
         "林孟瑾",
         "陈以文",
         "柯宇纶",
-        "张育邦",
         "杨德昌",
         "杨德昌 Edward Yang"
       ],
