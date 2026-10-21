@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 731,
   "fetched": 729,
-  "fetched_at": "2026-10-20T00:03:07+0000",
+  "fetched_at": "2026-10-21T00:03:06+0000",
   "movies": [
     {
       "id": "26359235",
@@ -25591,7 +25591,7 @@
       "aka": [
         "The Shawshank Redemption",
         "月黑高飞(港)",
-        "刺激1995(台)"
+        "刺激1995(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1292052/",
       "cover": "data/posters/1292052.jpg",
@@ -31390,7 +31390,7 @@
       "aka": [
         "American Ultra",
         "美式极端",
-        "废柴特务(台) [可播放]"
+        "废柴特务(台)"
       ],
       "url": "https://movie.douban.com/subject/25763555/",
       "cover": "data/posters/25763555.jpg",
