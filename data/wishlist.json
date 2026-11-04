@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 658,
   "fetched": 646,
-  "fetched_at": "2026-10-26T00:01:36+0000",
+  "fetched_at": "2026-11-04T00:01:30+0000",
   "movies": [
     {
       "id": "36777371",
@@ -56,8 +56,8 @@
       "languages": [
         "英语"
       ],
-      "runtime": "",
-      "intro_raw": "2026(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 英国 / 阿尔·坎贝尔 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
+      "runtime": "30分钟",
+      "intro_raw": "2026-11-15(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 英国 / 阿尔·坎贝尔 / 30分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
       "people": [
         "戴安·摩根",
         "迈克尔·贝",
@@ -81,7 +81,7 @@
         "Kali Varghese",
         "Sam Ward Sam Ward"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935821638.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937081307.jpg"
     },
     {
       "id": "37143090",
@@ -271,7 +271,8 @@
       "cid": "4969214856",
       "title": "你能看到一切",
       "aka": [
-        "You Can See Everything"
+        "You Can See Everything",
+        "你能看到一切"
       ],
       "url": "https://movie.douban.com/subject/38643086/",
       "cover": "data/posters/38643086.jpg",
@@ -1890,7 +1891,7 @@
         "拉杜·裘德 Radu Jude",
         "罗马尼亚语"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2904838160.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902389739.jpg"
     },
     {
       "id": "1865139",
@@ -3215,7 +3216,7 @@
         "日语"
       ],
       "runtime": "45分钟",
-      "intro_raw": "2022-04-13(日本) / 间宫祥太朗 / 神尾枫珠 / 森川葵 / 宇梶刚士 / 铃木纱理奈 / 原菜乃华 / 森本慎太郎 / 满岛真之介 / 富田望生 / 春本ヒロ / 日本 / 本广克行 / 45分钟 / 难破MG5 / 剧情 / 喜剧 / 动作 / 金沢达也 Tatsuya Kanazawa / 日语",
+      "intro_raw": "2022-04-13(日本) / 间宫祥太朗 / 神尾枫珠 / 森川葵 / 宇梶刚士 / 铃木纱理奈 / 原菜乃华 / 森本慎太郎 / 满岛真之介 / 富田望生 / 春本弘 / 日本 / 本广克行 / 45分钟 / 难破MG5 / 剧情 / 喜剧 / 动作 / 金沢达也 Tatsuya Kanazawa / 日语",
       "people": [
         "间宫祥太朗",
         "神尾枫珠",
@@ -3226,7 +3227,7 @@
         "森本慎太郎",
         "满岛真之介",
         "富田望生",
-        "春本ヒロ",
+        "春本弘",
         "本广克行",
         "难破MG5",
         "金沢达也 Tatsuya Kanazawa"
@@ -5786,7 +5787,7 @@
       "aka": [
         "La cabina",
         "The Phone Box",
-        "电话亭"
+        "电话亭 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1481456/",
       "cover": "data/posters/1481456.jpg",
@@ -7950,7 +7951,7 @@
       "title": "英国制造",
       "aka": [
         "Made in Britain",
-        "英国制造"
+        "英国制造 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1758603/",
       "cover": "data/posters/1758603.jpg",
@@ -8765,7 +8766,7 @@
       "aka": [
         "Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",
         "布鲁塞尔1080商业街23号让娜·迪尔曼",
-        "主妇日志(港)"
+        "主妇日志(港) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1868933/",
       "cover": "data/posters/1868933.jpg",
@@ -10135,7 +10136,7 @@
       "aka": [
         "Cabaret",
         "酒吧间",
-        "酒店"
+        "酒店 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1296282/",
       "cover": "data/posters/1296282.jpg",
@@ -14967,7 +14968,7 @@
       "aka": [
         "La planète sauvage",
         "神奇星球",
-        "奇幻星球"
+        "奇幻星球 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1291989/",
       "cover": "data/posters/1291989.jpg",
@@ -15091,7 +15092,7 @@
       "aka": [
         "ツレがうつになりまして。",
         "阿娜答有点Blue(台)",
-        "丈夫得了忧郁症"
+        "丈夫得了忧郁症 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/5968334/",
       "cover": "data/posters/5968334.jpg",
@@ -19253,7 +19254,7 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "2018-10-28(英国) / 史蒂夫·佩姆伯顿 / 里斯·谢尔史密斯 / 斯蒂芬妮·科尔 / 罗宾·贝里 / 里奇·基伯 / 丹尼斯·劳森 / 英国 / 巴巴拉·威尔希尔 / 9号秘事 万圣节特别篇 / 30分钟 / 9号秘事 万圣节特别篇 / 喜剧 / 恐怖 / 史蒂夫·佩姆伯顿 Steve Pemberton / 里斯·谢尔史密斯 Reece Shearsmith / 英语",
+      "intro_raw": "2018-10-28(英国) / 史蒂夫·佩姆伯顿 / 里斯·谢尔史密斯 / 斯蒂芬妮·科尔 / 罗宾·贝里 / 里奇·基伯 / 丹尼斯·劳森 / 伊冯娜·达尔普拉 / 英国 / 巴巴拉·威尔希尔 / 9号秘事 万圣节特别篇 / 30分钟 / 9号秘事 万圣节特别篇 / 喜剧 / 恐怖 / 史蒂夫·佩姆伯顿 Steve Pemberton / 里斯·谢尔史密斯 Reece Shearsmith / 英语",
       "people": [
         "史蒂夫·佩姆伯顿",
         "里斯·谢尔史密斯",
@@ -19261,6 +19262,7 @@
         "罗宾·贝里",
         "里奇·基伯",
         "丹尼斯·劳森",
+        "伊冯娜·达尔普拉",
         "巴巴拉·威尔希尔",
         "9号秘事 万圣节特别篇",
         "9号秘事 万圣节特别篇",
@@ -19376,7 +19378,7 @@
       ],
       "url": "https://movie.douban.com/subject/10484041/",
       "cover": "data/posters/10484041.jpg",
-      "year": "2013",
+      "year": "2012",
       "mark_date": "2019-01-08",
       "rating": 0,
       "comment": "",
@@ -19391,7 +19393,7 @@
         "日语"
       ],
       "runtime": "160分钟",
-      "intro_raw": "2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
+      "intro_raw": "2012-10-27(东京国际电影节) / 2013-02-23(日本) / 高良健吾 / 吉高由里子 / 池松壮亮 / 伊藤步 / 绫野刚 / 井浦新 / 国村隼 / 堀内敬子 / 古关安广 / 余贵美子 / 日本 / 冲田修一 / 160分钟 / 剧情 / 爱情 / 冲田修一 Shûichi Okita / 前田司郎 Shirô Maeda / 吉田修一 Shûichi Yoshida / 日语",
       "people": [
         "高良健吾",
         "吉高由里子",
@@ -19408,7 +19410,7 @@
         "前田司郎 Shirô Maeda",
         "吉田修一 Shûichi Yoshida"
       ],
-      "cover_remote": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1826486066.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2021127692.jpg"
     },
     {
       "id": "25761178",
@@ -19861,7 +19863,7 @@
       "aka": [
         "The Matrix Revolutions",
         "22世纪杀人网络3：惊变世纪(港)",
-        "骇客任务完结篇：最后战役(台)"
+        "骇客任务完结篇：最后战役(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1302467/",
       "cover": "data/posters/1302467.jpg",
@@ -20132,7 +20134,7 @@
       "aka": [
         "Twin Peaks Season 3",
         "双峰镇",
-        "双峰 重启篇"
+        "双峰 重启篇 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/26088510/",
       "cover": "data/posters/26088510.jpg",
@@ -20180,7 +20182,7 @@
       "title": "双峰  第二季",
       "aka": [
         "Twin Peaks Season 2",
-        "双峰镇 第二季"
+        "双峰镇 第二季 [可播放]"
       ],
       "url": "https://movie.douban.com/subject/3022764/",
       "cover": "data/posters/3022764.jpg",
@@ -27373,7 +27375,7 @@
         "意大利语"
       ],
       "runtime": "126分钟",
-      "intro_raw": "1998-10-28(意大利) / 2019-11-15(中国大陆) / 2024-11-15(中国大陆重映) / 蒂姆·罗斯 / 普路特·泰勒·文斯 / 比尔·努恩 / 克兰伦斯·威廉姆斯三世 / 梅兰尼·蒂埃里 / 皮特·沃恩 / 尼尔·奥布赖恩 / 阿尔贝托·巴斯克斯 / 加布里埃莱·拉维亚 / 科里·巴克 / 意大利 / 朱塞佩·托纳多雷 / 120分钟(国际版) / 170分钟(加长版) / 126分钟 / 海上钢琴师 / 剧情 / 音乐 / 亚利桑德罗·巴里克 Alessandro Baricco / 朱塞佩·托纳多雷 Giuseppe Tornatore / 英语 / 法语 / 意大利语",
+      "intro_raw": "1998-10-28(意大利) / 2019-11-15(中国大陆) / 2024-11-15(中国大陆重映) / 2026-11-13(中国大陆重映) / 蒂姆·罗斯 / 普路特·泰勒·文斯 / 比尔·努恩 / 克兰伦斯·威廉姆斯三世 / 梅兰尼·蒂埃里 / 皮特·沃恩 / 尼尔·奥布赖恩 / 阿尔贝托·巴斯克斯 / 加布里埃莱·拉维亚 / 科里·巴克 / 意大利 / 朱塞佩·托纳多雷 / 120分钟(国际版) / 170分钟(加长版) / 126分钟 / 海上钢琴师 / 剧情 / 音乐 / 亚利桑德罗·巴里克 Alessandro Baricco / 朱塞佩·托纳多雷 Giuseppe Tornatore / 英语 / 法语 / 意大利语",
       "people": [
         "蒂姆·罗斯",
         "普路特·泰勒·文斯",
