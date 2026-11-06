@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 732,
   "fetched": 730,
-  "fetched_at": "2026-11-05T00:04:17+0000",
+  "fetched_at": "2026-11-06T00:03:54+0000",
   "movies": [
     {
       "id": "10594965",
@@ -289,7 +289,7 @@
       "title": "八仙！",
       "aka": [
         "八仙之瞒天过海",
-        "All Wishes Come True!"
+        "All Wishes Come True! [可播放]"
       ],
       "url": "https://movie.douban.com/subject/36882191/",
       "cover": "data/posters/36882191.jpg",

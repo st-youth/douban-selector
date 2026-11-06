@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 658,
   "fetched": 646,
-  "fetched_at": "2026-11-05T00:01:58+0000",
+  "fetched_at": "2026-11-06T00:01:53+0000",
   "movies": [
     {
       "id": "36777371",
@@ -272,7 +272,8 @@
       "title": "你能看到一切",
       "aka": [
         "You Can See Everything",
-        "你能看到一切"
+        "袒裎相见(台)",
+        "你能看见一切"
       ],
       "url": "https://movie.douban.com/subject/38643086/",
       "cover": "data/posters/38643086.jpg",
