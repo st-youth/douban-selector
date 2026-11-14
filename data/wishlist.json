@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 659,
   "fetched": 647,
-  "fetched_at": "2026-11-13T00:01:28+0000",
+  "fetched_at": "2026-11-14T00:01:27+0000",
   "movies": [
     {
       "id": "35322132",
@@ -100,7 +100,7 @@
         "英语"
       ],
       "runtime": "30分钟",
-      "intro_raw": "2026-11-15(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 英国 / 阿尔·坎贝尔 / 30分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
+      "intro_raw": "2026-11-12(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 英国 / 阿尔·坎贝尔 / 30分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
       "people": [
         "戴安·摩根",
         "迈克尔·贝",
@@ -124,7 +124,7 @@
         "Kali Varghese",
         "Sam Ward Sam Ward"
       ],
-      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937081307.jpg"
+      "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937460613.jpg"
     },
     {
       "id": "37143090",
@@ -515,7 +515,7 @@
         "日语"
       ],
       "runtime": "",
-      "intro_raw": "2027-10(日本) / 熊谷健太郎 / 千本木彩花 / 泊明日菜 / 中博史 / 神户光步 / 早见沙织 / 川田绅司 / 野上翔 / 森田凉花 / 加藤涉 / 日本 / 宫岛善博 / 迷宫饭 / 迷宫饭 第二季 / 动画 / 奇幻 / 冒险 / 上野贵美子 Kimiko Ueno / 日语",
+      "intro_raw": "2027-10(日本) / 熊谷健太郎 / 千本木彩花 / 泊明日菜 / 中博史 / 神户光步 / 早见沙织 / 三木晶 / 川田绅司 / 加藤涉 / 高桥李依 / 日本 / 宫岛善博 / 迷宫饭 / 迷宫饭 第二季 / 动画 / 奇幻 / 冒险 / 上野贵美子 Kimiko Ueno / 日语",
       "people": [
         "熊谷健太郎",
         "千本木彩花",
@@ -523,10 +523,10 @@
         "中博史",
         "神户光步",
         "早见沙织",
+        "三木晶",
         "川田绅司",
-        "野上翔",
-        "森田凉花",
         "加藤涉",
+        "高桥李依",
         "宫岛善博",
         "迷宫饭",
         "迷宫饭 第二季",
@@ -1232,7 +1232,7 @@
         "日语"
       ],
       "runtime": "24分钟",
-      "intro_raw": "2021-07-15(日本) / 市川苍 / 大西沙织 / 悠木碧 / 小林千晃 / 后藤弘树 / 内藤有海 / 佐藤花 / 上田燿司 / 山本祥太 / 长谷川芳明 / 日本 / anime.shochiku.co.jp/sonny-boy/ / 夏目真悟 / 斋藤圭一郎 / 北川朋哉 / 24分钟 / 漂流少年 / 科幻 / 动画 / 夏目真悟 Shingo Natsume / 日语",
+      "intro_raw": "2021-07-15(日本) / 市川苍 / 大西沙织 / 悠木碧 / 小林千晃 / 后藤弘树 / 内藤有海 / 佐藤花 / 上田燿司 / 山本祥太 / 松野太纪 / 日本 / anime.shochiku.co.jp/sonny-boy/ / 夏目真悟 / 斋藤圭一郎 / 北川朋哉 / 24分钟 / 漂流少年 / 科幻 / 动画 / 夏目真悟 Shingo Natsume / 日语",
       "people": [
         "市川苍",
         "大西沙织",
@@ -1243,7 +1243,7 @@
         "佐藤花",
         "上田燿司",
         "山本祥太",
-        "长谷川芳明",
+        "松野太纪",
         "anime.shochiku.co.jp",
         "sonny-boy",
         "夏目真悟",
