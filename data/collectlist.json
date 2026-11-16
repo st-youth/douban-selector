@@ -4,7 +4,7 @@
   "label": "看过",
   "total_declared": 732,
   "fetched": 730,
-  "fetched_at": "2026-11-15T00:03:02+0000",
+  "fetched_at": "2026-11-16T00:03:10+0000",
   "movies": [
     {
       "id": "10594965",
@@ -7488,7 +7488,7 @@
       "aka": [
         "Vicky Cristina Barcelona",
         "情迷巴塞隆拿(港)",
-        "情遇巴塞隆纳(台)"
+        "情遇巴塞隆纳(台) [可播放]"
       ],
       "url": "https://movie.douban.com/subject/1981242/",
       "cover": "data/posters/1981242.jpg",
