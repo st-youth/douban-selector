@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 659,
   "fetched": 647,
-  "fetched_at": "2026-11-23T00:01:28+0000",
+  "fetched_at": "2026-11-24T00:01:24+0000",
   "movies": [
     {
       "id": "35322132",
@@ -100,17 +100,18 @@
         "英语"
       ],
       "runtime": "15分钟",
-      "intro_raw": "2026-11-12(英国) / 戴安·摩根 / 迈克尔·贝 / 本尼迪克特·康伯巴奇 / 马克·柯莫德 / 马克·卡曾斯 / 丹尼尔·彭伯顿 / 斯蒂芬·E.德·索萨 / 西穆斯·迈克加维 / 吉姆·道达尔 / 英国 / 阿尔·坎贝尔 / 15分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / Sam Ward Sam Ward / 英语",
+      "intro_raw": "2026-11-12(英国) / 戴安·摩根 / 迈克尔·贝 / 马克·卡曾斯 / 本尼迪克特·康伯巴奇 / 斯蒂芬·E.德·索萨 / 马克·柯莫德 / 丹尼尔·彭伯顿 / 西穆斯·迈克加维 / Helen O&#39;Hara / Sarah Churchwell / 英国 / 阿尔·坎贝尔 / 15分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / 萨姆·沃德 Sam Ward / 英语",
       "people": [
         "戴安·摩根",
         "迈克尔·贝",
-        "本尼迪克特·康伯巴奇",
-        "马克·柯莫德",
         "马克·卡曾斯",
-        "丹尼尔·彭伯顿",
+        "本尼迪克特·康伯巴奇",
         "斯蒂芬·E.德·索萨",
+        "马克·柯莫德",
+        "丹尼尔·彭伯顿",
         "西穆斯·迈克加维",
-        "吉姆·道达尔",
+        "Helen O&#39;Hara",
+        "Sarah Churchwell",
         "阿尔·坎贝尔",
         "扯淡电影史",
         "查理·布鲁克 Charlie Brooker",
@@ -123,7 +124,7 @@
         "乔尔·莫里斯 Joel Morris",
         "迈克尔·奥德瓦勒 Michael Odewale",
         "Kali Varghese",
-        "Sam Ward Sam Ward"
+        "萨姆·沃德 Sam Ward"
       ],
       "cover_remote": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937460613.jpg"
     },
