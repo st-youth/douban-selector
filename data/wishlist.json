@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 659,
   "fetched": 647,
-  "fetched_at": "2026-11-25T00:01:25+0000",
+  "fetched_at": "2026-11-26T00:01:27+0000",
   "movies": [
     {
       "id": "35322132",
@@ -100,7 +100,7 @@
         "英语"
       ],
       "runtime": "15分钟",
-      "intro_raw": "2026-11-12(英国) / 戴安·摩根 / 迈克尔·贝 / 马克·卡曾斯 / 本尼迪克特·康伯巴奇 / 斯蒂芬·E.德·索萨 / 马克·柯莫德 / 丹尼尔·彭伯顿 / 西穆斯·迈克加维 / Helen O&#39;Hara / Sarah Churchwell / 英国 / 阿尔·坎贝尔 / 15分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / 萨姆·沃德 Sam Ward / 英语",
+      "intro_raw": "2026-11-12(英国) / 戴安·摩根 / 迈克尔·贝 / 马克·卡曾斯 / 本尼迪克特·康伯巴奇 / 斯蒂芬·E.德·索萨 / 马克·柯莫德 / 丹尼尔·彭伯顿 / 西穆斯·迈克加维 / 海伦·奥哈拉 / 莎拉·丘奇韦尔 / 英国 / 阿尔·坎贝尔 / 15分钟 / 扯淡电影史 / 纪录片 / 真人秀 / 查理·布鲁克 Charlie Brooker / 本·考德尔 Ben Caudell / 艾丽卡·埃勒 Erika Ehler / 艾丽·戈德斯通 Eli Goldstone / 杰森·哈泽雷 Jason Hazeley / 丹尼尔·迈尔 Daniel Maier / 戴安·摩根 Diane Morgan / 乔尔·莫里斯 Joel Morris / 迈克尔·奥德瓦勒 Michael Odewale / Kali Varghese / 萨姆·沃德 Sam Ward / 英语",
       "people": [
         "戴安·摩根",
         "迈克尔·贝",
@@ -110,8 +110,8 @@
         "马克·柯莫德",
         "丹尼尔·彭伯顿",
         "西穆斯·迈克加维",
-        "Helen O&#39;Hara",
-        "Sarah Churchwell",
+        "海伦·奥哈拉",
+        "莎拉·丘奇韦尔",
         "阿尔·坎贝尔",
         "扯淡电影史",
         "查理·布鲁克 Charlie Brooker",
@@ -195,13 +195,14 @@
         "英国"
       ],
       "genres": [
-        "喜剧"
+        "喜剧",
+        "短片"
       ],
       "languages": [
         "英语"
       ],
-      "runtime": "",
-      "intro_raw": "2019-12-16(英国) / 戴安·摩根 / 英国 /  / 扯淡人物志2019 / 喜剧 / 英语",
+      "runtime": "5分钟",
+      "intro_raw": "2019-12-16(英国) / 戴安·摩根 / 英国 /  / 5分钟 / 扯淡人物志2019 / 喜剧 / 短片 / 英语",
       "people": [
         "戴安·摩根",
         "扯淡人物志2019"
@@ -317,8 +318,8 @@
       "title": "一切如你所见",
       "aka": [
         "You Can See Everything",
-        "一切如你所见(港)",
-        "袒裎相见(台)"
+        "袒裎相见(台)",
+        "你能看见一切"
       ],
       "url": "https://movie.douban.com/subject/38643086/",
       "cover": "data/posters/38643086.jpg",
@@ -7515,12 +7516,13 @@
         "藏语"
       ],
       "runtime": "102分钟",
-      "intro_raw": "2019-08-30(威尼斯电影节) / 2020-11-20(中国大陆) / 索朗旺姆 / 金巴 / 杨秀措 / 更旦 / 中国大陆 / 万玛才旦 / 102分钟 / 剧情 / 万玛才旦 Pema Tseden / 藏语",
+      "intro_raw": "2019-08-30(威尼斯电影节) / 2020-11-20(中国大陆) / 索朗旺姆 / 金巴 / 杨秀措 / 更旦 / 周拉多杰 / 中国大陆 / 万玛才旦 / 102分钟 / 剧情 / 万玛才旦 Pema Tseden / 藏语",
       "people": [
         "索朗旺姆",
         "金巴",
         "杨秀措",
         "更旦",
+        "周拉多杰",
         "万玛才旦",
         "万玛才旦 Pema Tseden"
       ],
@@ -14008,13 +14010,13 @@
         "英语"
       ],
       "runtime": "101分钟",
-      "intro_raw": "2020-01-24(圣丹斯电影节) / 2020-02-25(柏林电影节) / 2020-03-13(美国) / 茜德尼·弗拉尼根 / 塔莉娅·莱德 / 西奥多·佩尔兰 / 瑞安·艾戈尔德 / 莎朗 范 艾登 / 德鲁·塞尔策 / 布莱恩·阿尔特莫斯 / 美国 / 英国 / www.focusfeatures.com/never-rarely-sometimes-always / 伊丽莎·希特曼 / 101分钟 / 从不，很少，有时，总是 / 剧情 / 伊丽莎·希特曼 Eliza Hittman / 英语",
+      "intro_raw": "2020-01-24(圣丹斯电影节) / 2020-02-25(柏林电影节) / 2020-03-13(美国) / 茜德尼·弗拉尼根 / 塔莉娅·莱德 / 西奥多·佩尔兰 / 瑞安·艾戈尔德 / 莎朗·范·艾顿 / 德鲁·塞尔策 / 布莱恩·阿尔特莫斯 / 美国 / 英国 / www.focusfeatures.com/never-rarely-sometimes-always / 伊丽莎·希特曼 / 101分钟 / 从不，很少，有时，总是 / 剧情 / 伊丽莎·希特曼 Eliza Hittman / 英语",
       "people": [
         "茜德尼·弗拉尼根",
         "塔莉娅·莱德",
         "西奥多·佩尔兰",
         "瑞安·艾戈尔德",
-        "莎朗 范 艾登",
+        "莎朗·范·艾顿",
         "德鲁·塞尔策",
         "布莱恩·阿尔特莫斯",
         "www.focusfeatures.com",
