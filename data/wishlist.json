@@ -4,7 +4,7 @@
   "label": "想看",
   "total_declared": 659,
   "fetched": 647,
-  "fetched_at": "2026-11-26T00:01:27+0000",
+  "fetched_at": "2026-11-27T00:01:25+0000",
   "movies": [
     {
       "id": "35322132",
@@ -81,7 +81,8 @@
       "cid": "4969218685",
       "title": "扯淡电影史",
       "aka": [
-        "Cunk on Cinema"
+        "Cunk on Cinema",
+        "乱噏电影史(港)"
       ],
       "url": "https://movie.douban.com/subject/38422419/",
       "cover": "data/posters/38422419.jpg",
